@@ -41,6 +41,27 @@ This project analyzes the [Combined Cycle Power Plant (CCPP)](https://archive.ic
 ### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/PowerPlant_Analysis.git
-cd PowerPlant_Analysis
+cd PowerPlant_Analysis/noteboook
+run notebook.ipynb
+```
+
+## Results and Insights
+
+### Linear Regression
+- Identifies key predictors significantly affecting the power plant’s electrical output.
+- Comparative analysis between simple and multiple regression methods.
+
+### Nonlinear and Interaction Analysis
+- Evaluates polynomial and interaction terms to detect nonlinear relationships.
+
+### KNN Regression
+- Optimizes and evaluates KNN regression, finding the best-performing k value.
+- Compares KNN regression performance with linear regression approaches.
+
+
+### References
+- Combined Cycle Power Plant Dataset - UCI Machine Learning Repository
+
+
 
 
