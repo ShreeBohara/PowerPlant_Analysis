@@ -30,5 +30,17 @@ This project analyzes the [Combined Cycle Power Plant (CCPP)](https://archive.ic
 
 ---
 
-## Repository Structure
+
+- **`data/CCPP`**: Dataset files and documentation.
+- **`notebook`**: Jupyter notebook containing complete analysis (`Shree_HW2_DSML.ipynb`).
+
+---
+
+## Getting Started
+
+### Clone the Repository
+```bash
+git clone https://github.com/yourusername/PowerPlant_Analysis.git
+cd PowerPlant_Analysis
+
 
